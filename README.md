@@ -22,7 +22,7 @@ dart pub get
 ```
 3. Execute o programa:
 ```bash
-dart run bin/main.dart
+dart run lib/main.dart
 ```
 ---
 
